@@ -1,0 +1,12 @@
+---
+title: "Block structured adaptive mesh refinement and strong form elasticity approach to phase field fracture with applications to delamination, crack branching and crack deflection"
+collection: publications
+permalink: /publication/2021-11-01-alamo-cmame
+excerpt: 'In this work a novel numerical framework is proposed for implementing hybrid phase field fracture in heterogeneous materials.'
+date: 2021-11-01
+venue: 'Computer Methods in Applied Mechanics and Engineering'
+paperurl: 'https://doi.org/10.1016/j.cma.2021.114011'
+citation: 'Agrawal V. and Runnels B., Block structured adaptive mesh refinement and strong form elasticity approach to phase field fracture with applications to delamination, crack branching and crack deflection, <i>Computer Methods in Applied Mechanics and Engineering</i>, <b>385</b> (2021), 114011.'
+---
+
+Fracture is a ubiquitous phenomenon in most composite engineering structures, and is often the responsible mechanism for catastrophic failure. Over the past several decades, many approaches have emerged to model and predict crack failure. The phase field method for fracture uses a surrogate damage field to model crack propagation, eliminating the arduous need for explicit crack meshing. In this work a novel numerical framework is proposed for implementing hybrid phase field fracture in heterogeneous materials. The proposed method is based on the “reflux-free” method for solving, in strong form, the equations of linear elasticity on a block-structured adaptive mesh refinement (BSAMR) mesh. The use of BSAMR enables highly efficient and scalable regridding, facilitates the use of temporal subcycling for explicit time integration, and allows for ultra-high refinement at crack boundaries with minimal computational cost. The method is applied to a variety of simple heterogeneous structures: laminates, wavy interfaces, and circular inclusions. In each case a non-dimensionalized parameter study is performed to identify regions of behavior, varying both the geometry of the problem and the relative fracture energy release rate. In the laminate and wavy interface cases, regions of delamination and fracture correspond to simple analytical predictions. For the circular inclusions, the modulus ratio of the inclusion is varied as well as the delamination energy release rate and the problem geometry. In this case, a wide variety of behaviors was observed, including deflection, splitting, delamination, and pure fracture.

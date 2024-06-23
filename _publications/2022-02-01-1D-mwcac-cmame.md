@@ -1,0 +1,12 @@
+---
+title: "Moving window techniques to model shock wave propagation using the concurrent atomistic–continuum method"
+collection: publications
+permalink: /publication/2022-02-01-1D-mwcac-cmame
+excerpt: 'In this work, we develop two distinct moving window approaches within a Concurrent Atomistic–Continuum (CAC) framework to model shock wave propagation through a one-dimensional monatomic chain.'
+date: 2022-02-01
+venue: 'Computer Methods in Applied Mechanics and Engineering'
+paperurl: 'https://doi.org/10.1016/j.cma.2021.114360'
+citation: 'Davis A., Lloyd J.T. and Agrawal V., Moving window techniques to model shock wave propagation using the concurrent atomistic-continuum method, <i>Computer Methods in Applied Mechanics and Engineering</i>, <b>389</b> (2022), 114360.'
+---
+
+Atomistic methods have successfully modeled different aspects of shock wave propagation in materials over the past several decades, but they suffer from limitations which restrict the total runtime and system size. Multiscale methods have been able to increase the length and time scales that can be modeled but employing such schemes to simulate wave propagation and evolution through engineering-scale domains is an active area of research. In this work, we develop two distinct moving window approaches within a Concurrent Atomistic–Continuum (CAC) framework to model shock wave propagation through a one-dimensional monatomic chain. In the first method, the entire CAC system travels with the shock in a conveyor fashion and maintains the shock front in the middle of the overall domain. In the second method, the atomistic region follows the shock by the simultaneous coarsening and refinement of the continuum regions. The CAC and moving window frameworks are verified through dispersion relation studies and phonon wave packet tests. We achieve good agreement between the simulated shock velocities and the values obtained from theory with the conveyor technique, while the coarsen-refine technique allows us to follow the propagating wave front through a large-scale domain. This work showcases the ability of the CAC method to accurately simulate propagating shocks and also demonstrates how a moving window technique can be used in a multiscale framework to study highly nonlinear, transient phenomena.
