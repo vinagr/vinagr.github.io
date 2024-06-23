@@ -1,0 +1,12 @@
+---
+title: "Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images"
+collection: publications
+permalink: /publication/2021-08-01-microstructure-cms
+excerpt: 'In this work, an optimized machine learning (ML) framework is proposed to autonomously and efficiently characterize pores, particles, grains and grain boundaries (GBs) from a given microstructure image.'
+date: 2021-08-01
+venue: 'Computational Materials Science'
+paperurl: 'https://doi.org/10.1016/j.commatsci.2021.110524'
+citation: 'Perera R., Guzzetti D. and Agrawal V., Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images, <i>Computational Materials Science</i>, <b>196</b> (2021), 110524.'
+---
+
+Additively manufactured metals exhibit heterogeneous microstructure which dictates their material and failure properties. Experimental microstructural characterization techniques generate a large amount of data that requires expensive computational resources. In this work, an optimized machine learning (ML) framework is proposed to autonomously and efficiently characterize pores, particles, grains and grain boundaries (GBs) from a given microstructure image. First, using a classifier Convolutional Neural Network (CNN), defects such as pores, powder particles, or GBs were recognized from a given microstructure. Depending on the type of defect, two different processes were used. For powder particles or pores, binary segmentations were generated using an optimized Convolutional Encoder-Decoder Network (CEDN). The binary segmentations were used to obtain particle and pore size and location using an object detection ML network (YOLOv5). For GBs, another optimized CEDN was developed to generate RGB segmentation images, which were used to obtain grain size distribution using two regression CNNs. To optimize the RGB CEDN, the Deep Emulator Network SEarch (DENSE) method which employs the Covariance Matrix Adaptation - Evolution Strategy (CMA-ES) was implemented. The optimized RGB segmentation network showed a substantial reduction in training time and GPU usage compared to the unoptimized network, while maintaining high accuracy. Lastly, the proposed framework showed a significant improvement in analysis time when compared to conventional methods.

@@ -1,0 +1,12 @@
+---
+title: "Mechanical characterization and modeling stress relaxation behavior of acrylic–polyurethane-based graft-interpenetrating polymer networks"
+collection: publications
+permalink: /publication/2021-01-27-ipn-modeling-pes
+excerpt: 'The stress relaxation behavior of acrylic–polyurethane (PU)-based graft-interpenetrating polymer networks (IPNs) was characterized via dynamic mechanical analysis (DMA) and modeled using finite element method (FEM) analysis.'
+date: 2021-01-27
+venue: 'Polymer Engineering and Sciences'
+paperurl: 'https://doi.org/10.1002/pen.25640'
+citation: 'Alizadeh N., Celestine A.N, Auad M.L. and Agrawal V., Mechanical characterization and modeling stress relaxation behavior of acrylic-polyurethane based graft-Interpenetrating Polymer Networks (IPNs), <i>Polymer Engineering and Science</i> <b>61</b> (2021), 1299-1309.'
+---
+
+The stress relaxation behavior of acrylic–polyurethane (PU)-based graft-interpenetrating polymer networks (IPNs) was characterized via dynamic mechanical analysis (DMA) and modeled using finite element method (FEM) analysis. Stress relaxation of glassy IPN specimens was experimentally studied under flexural testing, while rubbery IPN specimens were tested in tension. The effects of varying the styrene content in the acrylic copolymer phase, compatibility of the two phases in IPNs, and changing the concentration of acrylic copolymer and PU were studied. A higher percentage of styrene content resulted in higher homogeneity of IPN specimens, and decrease in initial modulus for acrylic copolymer specimens. Additionally, glassy IPN specimens with 90% styrene shows resistance to relaxation as high as acrylic copolymer samples. Experimental results were used to develop a numerical model to study stress relaxation response of specimens. While polymer systems have been studied computationally, numerical modeling of IPN systems is still in its infancy. A three-dimensional FEM model was developed using the Generalized Maxwell model and four-term Prony series constants, which were extracted from the stress relaxation experiments. With four terms in the Prony series, a good match was observed between experimental observations and results from the FEM model.
