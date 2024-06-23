@@ -19,7 +19,7 @@ Work experience
 ======
 * Scientist, Los Alamos National Laboratories (Aug 2024 - present)
 * Associate Professor in Aerospace Engineering, Auburn University (Aug 2024)
-* Associate Professor in Aerospace Engineering, Auburn University (Jan 2017 - Aug 2024)
+* Assistant Professor in Aerospace Engineering, Auburn University (Jan 2017 - Aug 2024)
 * Adjunct Professor in Geosciences, Auburn University (Jan 2017 - Aug 2024)
   
 Research Interests
