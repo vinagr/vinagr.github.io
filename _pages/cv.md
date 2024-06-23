@@ -17,29 +17,15 @@ Education
 
 Work experience
 ======
-* August 2024 - present: Scientist III
-  * Los Alamos National Laboratories
-  * Computational Materials Scientist at XCP-5
-
-* August 2024: Associate Professor
-  * Auburn University
-  * Department of Aerospace Engineering
-
-* January 2017 - August 2024: Assistant Professor
-  * Auburn University
-  * Department of Aerospace Engineering
-
-* January 2017 - August 2024: Adjunct Professor
-  * Auburn University
-  * Department of Geosciences
+* Scientist, Los Alamos National Laboratories (Aug 2024 - present)
+* Associate Professor in Aerospace Engineering, Auburn University (Aug 2024)
+* Associate Professor in Aerospace Engineering, Auburn University (Jan 2017 - Aug 2024)
+* Adjunct Professor in Geosciences, Auburn University (Jan 2017 - Aug 2024)
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Multiscale mechanics of materials
+* Ap
 * Skill 3
 
 Publications
