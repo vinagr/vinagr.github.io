@@ -41,6 +41,10 @@ Service and leadership
 ======
 * Guest editor, Focus issue on <q>Novel Computational Approaches for Bridging Length and Time scales: Addressing Challenges in Modeling Processes, Characterization, and Performance of Metals and Alloys</q> in <i>Modeling and Simulation in Materials Science and Engineering</i>.
 * Committee member, Early Career Professionals Committee, <i>The Minerals, Metals, and Materials Society</i>.
+* Conference mini-symposium organization.
+* Committee member, Advocates & Allies group, <i>Auburn University</i>.
+* Department representative, Diversity, Equity, and Inclusion committee, <i>Samuel Ginn College of Engineering, Auburn University</i>.
+* Faculty mentor, Summer Science Institute, <i>Auburn University</i>.
 
 Publications
 ======
