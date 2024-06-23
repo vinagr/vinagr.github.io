@@ -14,7 +14,7 @@ name                     : &name "Vinamra Agrawal"
 description              : &description "Scientist, Los Alamos National Laboratory"
 url                      : https://vinagr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "vinagr/vinagr.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "Headshot.jpg"
   name             : "Vinamra Agrawal"
-  pronouns         : "he/him/his"  
-  bio              : "Computational Materials Scientist"
+  pronouns         : # "he/him/his"  
+  bio              : "Computational Materials Scientist in XCP-5 "
   location         : # "Los Alamos National Laboratory"
   employer         : "Los Alamos National Laboratory"
   uri              : # URL
@@ -280,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

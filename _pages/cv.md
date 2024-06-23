@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, California Institute of Technology, 2016
+* M.S. in Mechanical Engineering, California Institute of Technology, 2012
+* B.Tech. in Mechanical Engineering, Indian Institute of Technology Kanpur, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2024 - present: Scientist III
+  * Los Alamos National Laboratories
+  * Computational Materials Scientist at XCP-5
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2024: Associate Professor
+  * Auburn University
+  * Department of Aerospace Engineering
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2017 - August 2024: Assistant Professor
+  * Auburn University
+  * Department of Aerospace Engineering
+
+* January 2017 - August 2024: Adjunct Professor
+  * Auburn University
+  * Department of Geosciences
   
 Skills
 ======
