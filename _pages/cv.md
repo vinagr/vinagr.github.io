@@ -25,8 +25,9 @@ Work experience
 Research Interests
 ======
 * Multiscale mechanics of materials
-* Ap
-* Skill 3
+* Novel computational schemes for modeling material behavior
+* Machine learning methods in mechanics and multiphysics behavior of materials
+* Impact cratering and geosciences
 
 Publications
 ======
