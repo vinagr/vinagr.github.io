@@ -8,7 +8,11 @@ date: 2017-01-08
 location: "Auburn, Alabama"
 ---
 
-This course covers the fundamental concepts of wave propagation in solids. Topics include,
+This course covers the fundamental concepts of wave propagation in solids. 
+
+Course description
+===
+Topics include,
 1. Waves in strings and rods - a one dimensional analysis
 1. D'Alembert solution
 1. Solutions by Fourier and Laplace transforms

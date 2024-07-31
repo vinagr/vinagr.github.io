@@ -8,7 +8,11 @@ date: 2017-08-10
 location: "Auburn, Alabama"
 ---
 
-This course was taught every fall from 2017 to 2024. This is a graduate level course, with emphasis on differential equations and applications to aerospace related problems. Topics include
+This course was taught every fall from 2017 to 2024. This is a graduate level course, with emphasis on differential equations and applications to aerospace related problems. 
+
+Course description
+===
+Topics include
 1. First order ODE
 1. Second Order ODE
 1. ODE Systems
