@@ -8,7 +8,7 @@ date: 2017-01-08
 location: "Auburn, Alabama"
 ---
 
-This course covers the fundamental concepts of wave propagation in solids. 
+This graduate level course covers the fundamental concepts of wave propagation in solids. 
 
 Course description
 ===
