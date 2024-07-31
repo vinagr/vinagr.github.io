@@ -11,7 +11,7 @@ Welcome! I am a Computational Materials Scientist within the [XCP-5: Materials a
 
 I received my Ph.D. and M.S. in Mechanical Engineering from the [California Institute of Technology](https://mce.caltech.edu) and B.Tech. in Mechanical Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/me). Before joining LANL, I was an Associate Professor in [Aerospace Engineering at Auburn University](https://eng.auburn.edu/aero) with an adjunct appointment in the Department of Geosciences. 
 
-My research work has been supported 
+My research work has been supported by the National Science Foundation (NSF), Army Research Laboratory, Army Research Office, and Los Alamos National Laboratories. My students have received financial support from the National Defense Science and Engineering Graduate Fellowship ([NDSEG](https://ndseg.org/)), NSF Graduate Research Fellowship Program ([NSF-GRFP](https://www.nsfgrfp.org/)), and Department of Defense Science Mathematics and Research for Transformation ([DoD-SMART](https://www.smartscholarship.org/smart)) fellowship program.
 
 <!-- A data-driven personal website
 ======
