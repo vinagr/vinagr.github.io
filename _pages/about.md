@@ -11,7 +11,7 @@ Welcome! I am a Computational Materials Scientist within the [XCP-5: Materials a
 
 I received my Ph.D. and M.S. in Mechanical Engineering from the [California Institute of Technology](https://mce.caltech.edu) and B.Tech. in Mechanical Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/me). Before joining LANL, I was an Associate Professor in [Aerospace Engineering at Auburn University](https://eng.auburn.edu/aero) with an adjunct appointment in the Department of Geosciences. 
 
-My research has received 
+My research work has been supported 
 
 <!-- A data-driven personal website
 ======
