@@ -4,7 +4,7 @@ title: "Teaching & Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
-
+{% include base_path %}
 <h2>Current students</h2>
 <ol>
   <li>Patricia Solana, Ph.D. in Geosciences (Auburn University), expected 2029.</li>
@@ -12,12 +12,32 @@ author_profile: true
 </ol>
 
 <h2>Former students</h2>
+<h4>Graduate students</h4>
 <ol>
   <li>Roberto Perera, Ph.D. in Aerospace Engineering (Auburn University), 2024 (currently at the Naval Air Warfare Command Weapons Division).</li>
   <li>Alexander Davis, Ph.D. in Aerospace Engineering (Auburn University), 2023 (currently at ExoAnalytics Solutions).</li>
   <li>Leticia De Marchi, Ph.D. in Geosciences (Auburn University), 2021 (currently at Auburn University).</li>
+  <li>Amrit Aryal, M.S. in Aerospace Engineering (Auburn University), 2024.</li>
+  <li>Siddharth Sriram, M.S. in Aerospace Engineering (Auburn University), 2023.</li>
+</ol>
+<h4>Undergraduate students</h4>
+<ol>
+  <li>Luis Postigo, B.S. in Aerospace Engineering (Auburn University), 2024.</li>
+  <li>Kyle Piper, B.S. in Mechanical Engineering (California Institute of Technology), 2024.</li>
+  <li>Daniel Reyes, B.S. in Computer Science (Auburn University), 2026.</li>
+  <li>Mia Gallo, B.S. in Mechanical Engineering (California Institute of Technology), 2026.</li>
+  <li>Brayden Noh, B.S. in Planetary Sciences (California Institute of Technology), 2025.</li>
+  <li>Dalton Shaub, B.S. in Aerospace Engineering (Auburn University), 2021.</li>
+  <li>Madison Harper, B.S. in Aerospace Engineering (Auburn University), 2021.</li>
+  <li>Dakota Newsome, B.S. in Aerospace Engineering (Auburn University), 2020.</li>
+  <li>Bryce Garder, B.S. in Aerospace Engineering (Auburn University), 2019.</li>
+  <li>Katherine Melson, B.S. in Aerospace Engineering (Auburn University), 2019.</li>
 </ol>
 
+<h2>Teaching experience</h2>
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 <!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
