@@ -1,11 +1,11 @@
 ---
-title: "Energy harvesting and dynamic fragmentation"
+title: "Hypervelocity impact and dynamic fragmentation of brittle materials"
 collection: talks
 type: "Invited Seminar"
-permalink: /talks/2017-02-10-invited-talk-cmu
-venue: "Department of Civil Engineering, Carnegie Melon University"
-date: 2017-02-10
-location: "Pittsburgh, PA"
+permalink: /talks/2018-01-05-invited-talk-iitd
+venue: "Department of Applied Mechanics, Indian Institute of Technology Delhi"
+date: 2018-01-05
+location: "Delhi, India"
 ---
 <!-- Abstract
 ---
