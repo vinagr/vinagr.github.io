@@ -6,5 +6,5 @@ permalink: /talks/2024-07-24-mwcac-wccm
 venue: "16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics"
 date: 2024-07-24
 location: "Vancouver, British Columbia, Canada"
-excerpt: "Authors: Agrawal V., Davis A., Hunter A., and Fensin S.J"
+authors: "Authors: Agrawal V., Davis A., Hunter A., and Fensin S.J"
 ---
