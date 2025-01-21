@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-12-16-pff-dutile
 excerpt: 'In this work, study the role of gradient architecture in crack propagation and failure of metallic functionally graded materials through the phase field formulation of ductile fracture.'
 date: 2024-12-16
-venue: 'arXiv preprint (journal submission under review). '
+venue: 'arXiv preprint (journal submission under review)'
 paperurl: 'https://doi.org/10.48550/arXiv.2411.18642'
 citation: 'Piper K. and Agrawal V., Ductile fracture in functionally graded materials: Insight into crack behavior within the gradient interface, <i>arXiv:2411.18642</i>.'
 ---
