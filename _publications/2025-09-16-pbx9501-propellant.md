@@ -5,7 +5,7 @@ permalink: /publication/2025-09-16-pbx9501-propellant
 excerpt: 'We use CNNs and GNNs to predict critical velocity for SDT response of PBX-9501 with macroscale pores.'
 date: 2025-09-16
 venue: 'Propellants, Explosives, Pyrotechnics (in press)'
-paperurl: 'https://doi.org/10.1130/B38196.1'
+paperurl: 'coming soon'
 citation: 'coming soon'
 ---
 
