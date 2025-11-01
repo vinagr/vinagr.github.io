@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Computational Materials Scientist within the [XCP-5: Materials and Physical Data](https://organizations.lanl.gov/xcp/xcp-5/) group at the [Los Alamos National Laboratory](https://lanl.gov). My research interests include multiscale mechanics of materials, computational method development, applications of machine learning to mechanics based problems, and planetary sciences. 
+Welcome! I am a Computational Materials Scientist within the [XCP-5: Materials and Physical Data](https://www.lanl.gov/engage/organizations/xcp/xcp-5) group at the [Los Alamos National Laboratory](https://lanl.gov). My research interests include multiscale mechanics of materials, computational method development, applications of machine learning to mechanics based problems, and planetary sciences. 
 
 I received my Ph.D. and M.S. in Mechanical Engineering from the [California Institute of Technology](https://mce.caltech.edu) and B.Tech. in Mechanical Engineering from the [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/me). Before joining LANL, I was an Associate Professor in [Aerospace Engineering at Auburn University](https://eng.auburn.edu/aero) with an adjunct appointment in the [Department of Geosciences](https://www.auburn.edu/cosam/departments/geosciences/). 
 

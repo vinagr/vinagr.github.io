@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-07-16-wetumpka-isale
 excerpt: 'In this work, we study the transient crater evolution of the Wetumpka crater and the role of water in the process.'
 date: 2025-07-16
-venue: 'GSA Bulletin (in press)'
+venue: 'GSA Bulletin'
 paperurl: 'https://doi.org/10.1130/B38196.1'
 citation: 'De Marchi, L., Agrawal, V., King Jr, D. T., & Ormö, J. (2025). Numerical simulation of the shallow marine target Wetumpka impact crater (Alabama, USA). Geological Society of America Bulletin.'
 ---
